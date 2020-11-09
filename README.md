@@ -1,8 +1,8 @@
-Wvlgth nm	,Photon flux
+wavelengh nm	photon flux /m2/nm/s
 280	0
 280.5	0
 281	0
-281.5	0
+281.5	#VALUE!
 282	66625.7158
 282.5	1735644.166
 283	8043430.288
@@ -2001,4 +2001,3 @@ Wvlgth nm	,Photon flux
 3990	1.53382E+26
 3995	1.50176E+26
 4000	1.47962E+26
-
